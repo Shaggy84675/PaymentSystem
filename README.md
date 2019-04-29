@@ -1,2 +1,2 @@
-# PaymentSystemAPI
-This repository is only for issues for Payment System API
+# PaymentSystem
+This repository is only for issues for Payment System
